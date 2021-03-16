@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Kj5PFWtW4myt4K19El4eRERZp14=",
+			"path": "github.com/leeli73/goFileView/download",
+			"revision": "503ed374aae3f67eb699c5f5f1a30100164bc744",
+			"revisionTime": "2020-08-03T13:49:56Z"
+		},
+		{
+			"checksumSHA1": "r/VVTvgPLmERPKVGGccBG/0e9mE=",
+			"path": "github.com/leeli73/goFileView/perview",
+			"revision": "503ed374aae3f67eb699c5f5f1a30100164bc744",
+			"revisionTime": "2020-08-03T13:49:56Z"
+		},
+		{
+			"checksumSHA1": "C87ze6XRNJbxi4NqpRgrbHKCkMo=",
+			"path": "github.com/leeli73/goFileView/utils",
+			"revision": "503ed374aae3f67eb699c5f5f1a30100164bc744",
+			"revisionTime": "2020-08-03T13:49:56Z"
+		}
+	],
+	"rootPath": "perview"
+}
